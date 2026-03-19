@@ -18,9 +18,11 @@ My work centers on the **ACES/MCIN** infrastructure, moving legacy prototypes in
 
 ---
 
-## Elite Mentorships & Recognition
-* **LFX Mentorship (Linux Foundation)**: Currently active as a Mentee at **Magma Core**. Focusing on distributed networking infrastructure and carrier-grade systems.
-* **CL4Health Workshop**: Research Poster accepted for **"The Cake Makes the Ingredients"** — focusing on the intersection of data quality and health-tech.
+## Elite Mentorships & Academic Research
+* **LFX Mentorship (Linux Foundation)**: Active Mentee @ **Magma Core**. Focusing on carrier-grade distributed networking infrastructure.
+* **LREC 2026 / CL4Health**: Research Paper Accepted
+  * *Focus*: Intersection of data quality and health-tech language resources.
+  * *Significance*: Demonstrating the "Resource-First" mindset required for large-scale neuroinformatics data management
 
 ---
 
