@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I’m Ravi Ranjan
+### Systems Engineer | LFX Mentee @ Linux Foundation | GSoC 2026 Applicant @ INCF
 
-<!--
-**AviJxn/AviJxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in **Vertical Full-Stack Engineering**, bridging the gap between high-performance Ruby backends and surgical Python CLI interfaces. Currently focused on delivering **CBRAIN-CLI v1.0** for the neuroinformatics community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Impact: CBRAIN Ecosystem
+My work centers on the **ACES/MCIN** infrastructure, moving legacy prototypes into production-grade tools.
+
+### CBRAIN (Ruby Core)
+* **[MERGED] [PR #1599](https://github.com/aces/cbrain/pull/1599)**: Resolved high-priority Mailer Gem 2.8+ regressions for production environments.
+* **[IN-REVIEW] [PR #1603](https://github.com/aces/cbrain/pull/1603)**: Intercepting backend rename failures in `UserfilesController` to ensure API status integrity.
+* **[IN-REVIEW] [PR #1601](https://github.com/aces/cbrain/pull/1601)**: Decommissioning deprecated `PortalTask` logic to reduce metadata overhead.
+
+### CBRAIN-CLI (Python Interface)
+* **[ACTIVE] [PR #35](https://github.com/aces/cbrain-cli/pull/35) & [#38](https://github.com/aces/cbrain-cli/pull/38)**: Establishing **POSIX Stream Integrity** and implementing **Zero-Dependency `argparse`** architecture.
+
+---
+
+## Elite Mentorships & Recognition
+* **LFX Mentorship (Linux Foundation)**: Currently active as a Mentee at **Magma Core**. Focusing on distributed networking infrastructure and carrier-grade systems.
+* **CL4Health Workshop**: Research Poster accepted for **"The Cake Makes the Ingredients"** — focusing on the intersection of data quality and health-tech.
+
+---
+
+## Surgical Tech Stack
+* **Languages**: Python (Expert Standard Lib/argparse), Ruby (Rails Core), Bash (HPC Scripting).
+* **Environments**: Linux (Ubuntu/CentOS), HPC Clusters (Beluga/Narval), Git/GitHub CI/CD.
+* **Principles**: Zero-Dependency Portability, POSIX Compliance, Defensive Architecture.
+
+---
+
+## Connect with Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/raviranjan-cs)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:raviranjan.myinfo@gmail.com)
+
