@@ -22,6 +22,7 @@ My work centers on the **ACES/MCIN** infrastructure, moving legacy prototypes in
 ## Mentorships & Academic Research
 * **LFX Mentorship (Linux Foundation)**: Active Mentee @ **Magma Core**. Focusing on distributed networking infrastructure and carrier-grade system reliability.
 * **LREC 2026 / CL4Health**: Research Paper Accepted:  Investigating data resource integrity and health-tech language processing.
+* * **SNOMED CT Affiliate License**: Issued by **SNOMED International** (Credential ID: 1552321). Specializing in clinical terminology standards and medical data interoperability.
 
 ---
 
