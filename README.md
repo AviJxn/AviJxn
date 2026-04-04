@@ -10,8 +10,8 @@ My work centers on the **ACES/MCIN** infrastructure, moving legacy prototypes in
 
 ### CBRAIN (Ruby Core)
 * **[MERGED] [PR #1599](https://github.com/aces/cbrain/pull/1599)**: Resolved high-priority Mailer Gem 2.8+ regressions. Refactored `sendmail_settings` for production-grade Gem compatibility.
-* **[IN-REVIEW] [PR #1603](https://github.com/aces/cbrain/pull/1603)**: Intercepting backend rename failures in `UserfilesController` to ensure API status integrity (422 Unprocessable Entity).
-* **[IN-REVIEW] [PR #1601](https://github.com/aces/cbrain/pull/1601)**: Decommissioning deprecated `PortalTask` logic to reduce metadata overhead following a full-subsystem audit.
+* **[MERGED] [PR #1603](https://github.com/aces/cbrain/pull/1603)**: Intercepting backend rename failures in `UserfilesController` to ensure API status integrity (422 Unprocessable Entity).
+* **[MERGED] [PR #1601](https://github.com/aces/cbrain/pull/1601)**: Decommissioning deprecated `PortalTask` logic to reduce metadata overhead following a full-subsystem audit.
 
 ### CBRAIN-CLI (Python Interface)
 * **[ACTIVE] [PR #35](https://github.com/aces/cbrain-cli/pull/35) & [#38](https://github.com/aces/cbrain-cli/pull/38)**: Establishing **POSIX Stream Integrity** (stdout/stderr separation) and implementing **Zero-Dependency `argparse`** architecture for HPC portability.
